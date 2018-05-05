@@ -1,6 +1,7 @@
 [![Runbot Status](https://runbot.odoo-community.org/runbot/badge/flat/248/10.0.svg)](https://runbot.odoo-community.org/runbot/repo/github-com-oca-mis-builder-248)
 [![Build Status](https://travis-ci.org/OCA/mis-builder.svg?branch=10.0)](https://travis-ci.org/OCA/mis-builder)
 [![codecov](https://codecov.io/gh/OCA/mis-builder/branch/10.0/graph/badge.svg)](https://codecov.io/gh/OCA/mis-builder)
+[![docs](https://media.readthedocs.org/static/projects/badges/passing.svg)](http://oca-mis-builder.readthedocs.io/en/10.0/)
 
 # MIS Builder
 
@@ -44,8 +45,8 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[mis_builder](mis_builder/) | 10.0.3.1.1 | Build 'Management Information System' Reports and Dashboards
-[mis_builder_budget](mis_builder_budget/) | 10.0.3.1.0 | Create budgets for MIS reports
+[mis_builder](mis_builder/) | 10.0.3.2.0 | Build 'Management Information System' Reports and Dashboards
+[mis_builder_budget](mis_builder_budget/) | 10.0.3.2.0 | Create budgets for MIS reports
 [mis_builder_demo](mis_builder_demo/) | 10.0.3.0.0 | Demo addon for MIS Builder
 
 [//]: # (end addons)
