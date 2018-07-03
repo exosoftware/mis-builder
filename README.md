@@ -45,17 +45,11 @@ Available addons
 ----------------
 addon | version | summary
 --- | --- | ---
-[mis_builder](mis_builder/) | 10.0.3.2.1 | Build 'Management Information System' Reports and Dashboards
-[mis_builder_budget](mis_builder_budget/) | 10.0.3.2.0 | Create budgets for MIS reports
+[mis_builder](mis_builder/) | 10.0.3.2.2 | Build 'Management Information System' Reports and Dashboards
+[mis_builder_budget](mis_builder_budget/) | 10.0.3.2.1 | Create budgets for MIS reports
 [mis_builder_demo](mis_builder_demo/) | 10.0.3.0.0 | Demo addon for MIS Builder
 
 [//]: # (end addons)
-
-Translation Status
-------------------
-[![Transifex Status](https://www.transifex.com/projects/p/OCA-mis-builder-10-0/chart/image_png)](https://www.transifex.com/projects/p/OCA-mis-builder-10-0)
-
-----
 
 OCA, or the [Odoo Community Association](http://odoo-community.org/), is a nonprofit organization whose
 mission is to support the collaborative development of Odoo features and
