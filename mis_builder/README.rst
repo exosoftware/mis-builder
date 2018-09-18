@@ -368,6 +368,7 @@ Contributors
 * Juan Jose Scarafia <jjs@adhoc.com.ar>
 * Richard deMeester <richard@willowit.com.au>
 * Eric Caudal <eric.caudal@elico-corp.com>
+* Andrea Stirpe <a.stirpe@onestein.nl>
 
 Maintainers
 ~~~~~~~~~~~
@@ -386,7 +387,7 @@ promote its widespread use.
     :target: https://github.com/sbidoul
     :alt: sbidoul
 
-Current `maintainer <https://odoo-community.org/page/maintainer-role>`_:
+Current `maintainer <https://odoo-community.org/page/maintainer-role>`__:
 
 |maintainer-sbidoul| 
 
