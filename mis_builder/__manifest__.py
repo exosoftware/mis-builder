@@ -4,7 +4,7 @@
 
 {
     'name': 'MIS Builder',
-    'version': '10.0.3.2.2',
+    'version': '10.0.3.0.0',
     'category': 'Reporting',
     'summary': """
         Build 'Management Information System' Reports and Dashboards
@@ -31,7 +31,7 @@
         'report/mis_report_instance_xlsx.xml',
     ],
     'qweb': [
-        'static/src/xml/*.xml'
+        'static/src/xml/mis_report_widget.xml',
     ],
     'installable': True,
     'application': True,
